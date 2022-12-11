@@ -1,0 +1,1 @@
+# Inheritance-in-Javascript-ES5-ES6
