@@ -35,4 +35,4 @@ const result = intBuilder
   .divide(4)                         // 7;
   .mod(3)                            // 1;
   .get();
-  console.log(result)
+  console.log(result)  // 1
